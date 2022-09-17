@@ -1,4 +1,4 @@
-#Set up JavaFX with IntelliJ
+# Set up JavaFX with IntelliJ
 
 1. Navigate to File -> Project Structure -> Project Settings -> Libraries
 2. Click the "+" button and choose Java
